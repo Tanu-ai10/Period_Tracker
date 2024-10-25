@@ -1,0 +1,5 @@
+<resources>
+    <color name="colorPrimary">#D10B9A</color> <!-- Replace with your desired color -->
+    <color name="colorPrimaryDark">#FB93FF</color> <!-- Replace with your desired color -->
+    <color name="colorAccent">#D10B9A</color> <!-- Replace with your desired color -->
+</resources>
